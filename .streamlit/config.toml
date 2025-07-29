@@ -1,2 +1,10 @@
 [server]
+headless = true
+port = 8501
+enableCORS = false
+
+[theme]
+base="light"
+
+[general]
 pythonVersion = "3.11"
